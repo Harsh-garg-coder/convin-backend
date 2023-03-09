@@ -1,0 +1,35 @@
+{
+    "cards": [
+      {
+        "bucketName": "second bucket",
+        "name": "some card",
+        "videoLink": "some url",
+        "id": 3
+      },
+      {
+        "bucketName": "second bucket",
+        "name": "some card",
+        "videoLink": "some video",
+        "id": 4
+      },
+      {
+        "bucketName": "second bucket",
+        "name": "card-new-name",
+        "link": "videe-new-link",
+        "id": 6
+      }
+    ],
+    "buckets": [
+      {
+        "bucketName": "first bucket",
+        "id": 1
+      },
+      {
+        "bucketName": "second bucket",
+        "id": 2
+      }
+    ],
+    "history": [
+      
+    ]
+  }
